@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(233, 230, 230);
+}
+
+.setting{
+    display: flex;
+    position: fixed;
+    top: 140px;
+    right: -5px;
+    font-size: 30px;
+    background-color: orange;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+}
